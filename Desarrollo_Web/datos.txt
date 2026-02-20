@@ -1,0 +1,7 @@
+Nombre completo: Arnoldo Ayala Sagrero
+Matrícula:
+Carrera: Ingenieria de Software
+Materia: Desarrollo Web
+Profesor: Herman
+Semestre: 6
+Fecha: Febrero 2026
