@@ -3,5 +3,5 @@ Matrícula: 23124830
 Carrera: Licenciatura en Ingenieria de Software Virtual
 Materia: Introduccion al Desarrollo Web
 Profesor: Dr. Herman Geovany Ayala Zúñiga
-Semestre: 6
+Semestre: 6/8
 Fecha: Febrero to Mayo 2026
