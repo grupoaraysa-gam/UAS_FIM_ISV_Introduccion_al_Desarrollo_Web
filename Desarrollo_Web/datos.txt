@@ -1,7 +1,7 @@
 Nombre completo: Arnoldo Ayala Sagrero
 Matrícula: 23124830
 Carrera: Licenciatura en Ingenieria de Software Virtual
-Materia: Desarrollo Web
+Materia: Introduccion al Desarrollo Web
 Profesor: Dr. Herman Geovany Ayala Zúñiga
 Semestre: 6
-Fecha: Febrero 2026
+Fecha: Febrero to Mayo 2026
